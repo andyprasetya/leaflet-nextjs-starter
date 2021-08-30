@@ -1,0 +1,31 @@
+{
+  "name": "leaflet-nextjs-starter",
+  "version": "1.0.0",
+  "description": "Leaflet.js - Next.js Learn",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyprasetya/leaflet-nextjs-starter.git"
+  },
+  "author": "Andy Prasetya (andyprasetya@aol.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andyprasetya/leaflet-nextjs-starter/issues"
+  },
+  "homepage": "https://github.com/andyprasetya/leaflet-nextjs-starter#readme",
+  "dependencies": {
+    "next": "^11.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.3.3",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.8"
+  }
+}
